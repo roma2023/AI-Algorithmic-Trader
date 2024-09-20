@@ -1,0 +1,22 @@
+# Basic Data Science
+pandas
+numpy
+matplotlib
+seaborn
+
+# Sentiment analysis
+scikit-learn
+sklearn_preprocessing
+nltk
+transformers
+torch 
+finvader 
+pysentiment2 
+scipy 
+openpyxl
+
+# Technical Analyis
+ta
+yfinance
+statsmodels
+
