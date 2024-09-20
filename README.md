@@ -1,4 +1,4 @@
-# QSIURP Project
+# AI-Algorithmic Trader - QSIURP Research Project
 
 ## Overview
 
